@@ -15,7 +15,6 @@ Berikut adalah rincian program yang ada dalam repositori ini:
 Mengimplementasikan *abstract class* `Sortable` pada kelas `Employee` menggunakan algoritma *Shell Sort* untuk mengurutkan pegawai berdasarkan gaji.
 > **Output:**
 > ![Screenshot Case 1](assets/case1_ss.png)
-> *(Ganti `assets/case1_ss.png` dengan screenshot hasil run Case 1)*
 
 ### 2. Case 2: Manager Sorting
 Pengembangan dari Case 1, di mana `Manager` adalah subclass dari `Employee`. Program ini membuktikan bahwa algoritma sorting pada parent class tetap bekerja untuk subclass.
